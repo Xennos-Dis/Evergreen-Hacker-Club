@@ -1,2 +1,0 @@
-alert();
-var b = "tielk"
